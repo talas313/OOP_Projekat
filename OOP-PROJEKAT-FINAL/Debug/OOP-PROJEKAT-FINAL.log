@@ -1,0 +1,11 @@
+﻿  Lager.cpp
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(120,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(168,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(181,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(217,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(238,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KORISNIK\source\repos\OOP-PTF-2020\Grupa11\OOP-PROJEKAT-FINAL\Lager.cpp(94): warning C4715: 'Lager::isprazniLager': not all control paths return a value
+  OOP-PROJEKAT-FINAL.vcxproj -> C:\Users\KORISNIK\Source\Repos\OOP-PTF-2020\Grupa11\Debug\OOP-PROJEKAT-FINAL.exe
